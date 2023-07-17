@@ -10,7 +10,7 @@
 
 It's unusual to have just one table in a business application. Typically, there are many tables to represent data in a meaningful way.
 
-Let's imagine we are designing an application for a new boutique travel travel boutique, where guests will get to work with an agent to be able to book experiences at unique hotels that are not part of any franchises. What kind of data would we need?
+Let's imagine we are designing an application for a new boutique travel agency, where guests will get to work with an agent to be able to book experiences at unique hotels that are not part of any franchises. What kind of data would we need?
 
 - Hotel
 - name - string
