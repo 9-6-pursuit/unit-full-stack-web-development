@@ -166,7 +166,7 @@ const {
 } = require("../queries/bookmarks");
 ```
 
-Create the show route and test it with Postman
+Make the create route and test it with Postman
 
 ```js
 // CREATE
